@@ -1,0 +1,23 @@
+body{
+    position: relative;
+    padding: 0%;
+    margin:0%;
+}
+.btnn{
+    text-align: center;  
+}
+.btnn button{
+    margin: 10px;  
+}
+.contain{
+    display: flex;
+}
+.car{
+    display: flex;
+
+}
+.arrow{
+    margin: 40px;
+    padding: 0px;
+    color: rgb(255, 4, 4);
+}
